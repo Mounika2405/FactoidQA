@@ -31,6 +31,9 @@ To address this issue, in our work, we propose to use ConceptNet as an external 
 ### References
 
 [1] P. Rajpurkar, J. Zhang, K. Lopyrev, and P. Liang, “SQuAD: 100,000+ questions for machine comprehension of text”. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016.
+
 [2] P. Rajpurkar, R. Jia, and P. Liang, “Know what you don’t know: Unanswerable questions for SQuAD”. In Proceedings Association for Computational Linguistics, 2018.[3] Tom Young, Erik Cambria, Iti Chaturvedi, Hao Zhou, Subham Biswas, Minline Huang, “Augmenting End-to-End Dialogue Systems With Commonsense Knowledge”. In AAAI, 2018. 
-[4] Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi and Hannaneh Hajishirzi. “Bidirectional Attention Flow for Machine Comprehension.” In ICLR 2017.
-[5] Robyn Speer, Joshua Chin, and Catherine Havasi. “ConceptNet 5.5: an open multilingual graph of general knowledge”. In AAAI 2017.
+
+[3] Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi and Hannaneh Hajishirzi. “Bidirectional Attention Flow for Machine Comprehension.” In ICLR 2017.
+
+[4] Robyn Speer, Joshua Chin, and Catherine Havasi. “ConceptNet 5.5: an open multilingual graph of general knowledge”. In AAAI 2017.
